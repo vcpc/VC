@@ -1,2 +1,1 @@
-# VC 
-## This VC Framework
+# VC Framework
